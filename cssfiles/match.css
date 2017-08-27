@@ -1,0 +1,77 @@
+.marg{
+    margin:10px 0;
+}
+
+.livescores{
+    width: 100% !important ;
+    text-align: center !important;
+}
+
+.match{
+    width: 110px !important;
+    background-color: #F0F0F0 !important;
+    display: inline-block !important;
+    vertical-align: top !important;
+    margin: 5px !important;
+    white-space: normal !important;
+    border: 1px solid #DFDFDF !important;
+    box-sizing: border-box !important;
+}
+
+.matchheader{
+    text-align: center !important;
+    padding-bottom: 5px !important;
+    font-weight:bold !important;
+    font-size:15px !important;
+}
+.matchdate{
+    text-align: center !important;
+    width: 100% !important;
+    display: inline-block !important;
+    color: #B3B3B3 !important;
+    font-style: italic !important;
+    background-color: white !important;
+}
+.matchinfo{
+    margin:0 !important;
+    padding: !important;
+    display: block !important;
+}
+
+.teamsection{
+    float: left !important;
+    width: 50% !important;
+    text-align: center !important;
+}
+
+.teamlogo{
+        width: 40px !important;
+    height: 40px !important;
+    border: 1px solid white !important;
+    margin: auto auto !important;
+    border-radius: 999px !important;
+    padding: 5px !important;
+}
+
+.teamlogo img{
+    width:100% !important;
+    vertical-align: middle !important;
+}
+
+img{
+    border:0 !important;
+}
+
+.teamname
+{
+    font-weight: bold !important;
+    font-size: 14px !important;
+    margin: 5px 0 !important;
+    text-transform: uppercase !important;
+    display: block !important;
+}
+
+.teamscore{
+        font-size: 1em;
+    font-weight: bold;
+}

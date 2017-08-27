@@ -1,0 +1,183 @@
+.table_heading{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+.countrytablename{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color:white;
+    margin-bottom: 10px;
+}
+
+#Eng{
+    margin:0px !important;
+    margin:auto;
+}
+
+
+#Engpoint{
+    height:200px;
+    font-size: 20px;
+/*    float: right;*/
+}
+
+#Engscorer{
+    height:200px;
+    font-size: 20px;
+}
+
+
+#Engfixture{
+    height:200px;
+    max-width: 700px;
+    font-size: 20px;
+/*    float: right;*/
+    position:relative;
+    right:0px;
+}
+
+#France{
+    margin:0px !important;
+    margin:auto;
+}
+
+
+#Francepoint{
+    height:200px;
+    font-size: 20px;
+/*    float: right;*/
+}
+
+#Francescorer{
+    height:200px;
+    font-size: 20px;
+}
+
+
+#Francefixture{
+    height:200px;
+    max-width: 700px;
+    font-size: 20px;
+/*    float: right;*/
+    position:relative;
+    right:0px;
+}
+
+
+#Spainpoint{
+    height:200px;
+    font-size: 18px;
+/*    float: right;*/
+}
+
+#Spainscorer{
+    height:200px;
+    font-size: 20px;
+}
+
+
+#Spainfixture{
+    height:200px;
+    max-width: 700px;
+    font-size: 20px;
+/*    float: right;*/
+    position:relative;
+    right:0px;
+}
+
+.standing img{
+    max-height: 20px;
+    max-width: 20px;
+}
+
+.topscorers td{
+    padding: 5px 10px;
+	text-align: left;
+	color: white;
+    width=100%;
+    border-bottom: solid 1px grey;
+    font-size:18px;
+}
+
+.hometeam{
+/*     padding:0px !important;*/
+    text-align:left !important;
+}
+
+.awayteam{
+    text-align: right !important;
+/*    padding:0px !important;*/
+}
+.topscorers th{
+    padding: 5px 10px;
+	text-align: left;
+	color: #10A8B9;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.topscorers img{
+    max-height: 20px;
+    max-width: 20px;
+}
+
+.fixturetable td img{
+    max-height: 20px;
+    max-width: 20px;
+    padding: 0;
+}
+
+.standing td{
+	padding: 5px 10px;
+	text-align: left;
+	color: white;
+    border-bottom: solid 1px grey;
+    font-size:18px;
+} 
+
+.standing th{
+	padding: 5px 10px;
+	text-align: center;
+	color: #10A8B9;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+/*.standing tr:nth-child(even) {background: #CCC}*/
+/*.standing tr:nth-child(odd) {background: #FFF}*/
+/*.fixturetable tr:nth-child(even) {background: #CCC}*/
+/*.fixturetable tr:nth-child(odd) {background: #FFF}*/
+/*.topscorers tr:nth-child(even) {background: #CCC}*/
+/*.topscorers tr:nth-child(odd) {background: #FFF}*/
+
+.fixturetable td{
+	padding: 5px 10px;
+/*    padding:0px;*/
+	text-align: center;
+	color: white;
+    border-bottom: solid 1px grey;
+    font-size:18px;
+}
+
+.fixturetable th{
+	padding:5px  10px;
+/*	padding:0px;*/
+    text-align: center;
+	color: #10A8B9;
+	font-weight: bold;
+	font-size: 18px;
+}
+.info{
+	text-align: right;
+}
+
+.standing{
+	overflow-x: hidden;
+	overflow-y: scroll;
+	max-height: 320px; 
+}
+
